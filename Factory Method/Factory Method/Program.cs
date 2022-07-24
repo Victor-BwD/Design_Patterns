@@ -1,6 +1,6 @@
 ﻿using Factory_Method;
 
-Factory_Method.FactoryMethod factory = new Factory_Method.FactoryMethod();
+Factory_Method.FactoryMethod factory = new FactoryMethod();
 
 Console.WriteLine("Liu	Kang	|	SubZero	|	Scorpion");
 Console.WriteLine();
