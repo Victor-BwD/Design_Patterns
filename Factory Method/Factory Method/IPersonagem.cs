@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Factory_Method
 {
-    internal interface IPersonagem
+    public interface IPersonagem
     {
         void Escolhido();
     }

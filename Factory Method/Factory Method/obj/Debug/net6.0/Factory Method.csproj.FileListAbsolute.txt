@@ -1,0 +1,15 @@
+F:\victo\Documents\workspace\C#\Design Patterns\Factory Method\Factory Method\bin\Debug\net6.0\Factory Method.exe
+F:\victo\Documents\workspace\C#\Design Patterns\Factory Method\Factory Method\bin\Debug\net6.0\Factory Method.deps.json
+F:\victo\Documents\workspace\C#\Design Patterns\Factory Method\Factory Method\bin\Debug\net6.0\Factory Method.runtimeconfig.json
+F:\victo\Documents\workspace\C#\Design Patterns\Factory Method\Factory Method\bin\Debug\net6.0\Factory Method.dll
+F:\victo\Documents\workspace\C#\Design Patterns\Factory Method\Factory Method\bin\Debug\net6.0\Factory Method.pdb
+F:\victo\Documents\workspace\C#\Design Patterns\Factory Method\Factory Method\obj\Debug\net6.0\Factory Method.csproj.AssemblyReference.cache
+F:\victo\Documents\workspace\C#\Design Patterns\Factory Method\Factory Method\obj\Debug\net6.0\Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+F:\victo\Documents\workspace\C#\Design Patterns\Factory Method\Factory Method\obj\Debug\net6.0\Factory Method.AssemblyInfoInputs.cache
+F:\victo\Documents\workspace\C#\Design Patterns\Factory Method\Factory Method\obj\Debug\net6.0\Factory Method.AssemblyInfo.cs
+F:\victo\Documents\workspace\C#\Design Patterns\Factory Method\Factory Method\obj\Debug\net6.0\Factory Method.csproj.CoreCompileInputs.cache
+F:\victo\Documents\workspace\C#\Design Patterns\Factory Method\Factory Method\obj\Debug\net6.0\Factory Method.dll
+F:\victo\Documents\workspace\C#\Design Patterns\Factory Method\Factory Method\obj\Debug\net6.0\refint\Factory Method.dll
+F:\victo\Documents\workspace\C#\Design Patterns\Factory Method\Factory Method\obj\Debug\net6.0\Factory Method.pdb
+F:\victo\Documents\workspace\C#\Design Patterns\Factory Method\Factory Method\obj\Debug\net6.0\Factory Method.genruntimeconfig.cache
+F:\victo\Documents\workspace\C#\Design Patterns\Factory Method\Factory Method\obj\Debug\net6.0\ref\Factory Method.dll

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Factory_Method
 {
-    internal class Scorpion : IPersonagem
+    public class Scorpion : IPersonagem
     {
         void IPersonagem.Escolhido()
         {
