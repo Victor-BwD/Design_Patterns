@@ -1,0 +1,15 @@
+F:\victo\Documents\workspace\C#\Design Patterns\Abstract_Factory\Abstract_Factory\bin\Debug\net6.0\Abstract_Factory.exe
+F:\victo\Documents\workspace\C#\Design Patterns\Abstract_Factory\Abstract_Factory\bin\Debug\net6.0\Abstract_Factory.deps.json
+F:\victo\Documents\workspace\C#\Design Patterns\Abstract_Factory\Abstract_Factory\bin\Debug\net6.0\Abstract_Factory.runtimeconfig.json
+F:\victo\Documents\workspace\C#\Design Patterns\Abstract_Factory\Abstract_Factory\bin\Debug\net6.0\Abstract_Factory.dll
+F:\victo\Documents\workspace\C#\Design Patterns\Abstract_Factory\Abstract_Factory\bin\Debug\net6.0\Abstract_Factory.pdb
+F:\victo\Documents\workspace\C#\Design Patterns\Abstract_Factory\Abstract_Factory\obj\Debug\net6.0\Abstract_Factory.csproj.AssemblyReference.cache
+F:\victo\Documents\workspace\C#\Design Patterns\Abstract_Factory\Abstract_Factory\obj\Debug\net6.0\Abstract_Factory.GeneratedMSBuildEditorConfig.editorconfig
+F:\victo\Documents\workspace\C#\Design Patterns\Abstract_Factory\Abstract_Factory\obj\Debug\net6.0\Abstract_Factory.AssemblyInfoInputs.cache
+F:\victo\Documents\workspace\C#\Design Patterns\Abstract_Factory\Abstract_Factory\obj\Debug\net6.0\Abstract_Factory.AssemblyInfo.cs
+F:\victo\Documents\workspace\C#\Design Patterns\Abstract_Factory\Abstract_Factory\obj\Debug\net6.0\Abstract_Factory.csproj.CoreCompileInputs.cache
+F:\victo\Documents\workspace\C#\Design Patterns\Abstract_Factory\Abstract_Factory\obj\Debug\net6.0\Abstract_Factory.dll
+F:\victo\Documents\workspace\C#\Design Patterns\Abstract_Factory\Abstract_Factory\obj\Debug\net6.0\refint\Abstract_Factory.dll
+F:\victo\Documents\workspace\C#\Design Patterns\Abstract_Factory\Abstract_Factory\obj\Debug\net6.0\Abstract_Factory.pdb
+F:\victo\Documents\workspace\C#\Design Patterns\Abstract_Factory\Abstract_Factory\obj\Debug\net6.0\Abstract_Factory.genruntimeconfig.cache
+F:\victo\Documents\workspace\C#\Design Patterns\Abstract_Factory\Abstract_Factory\obj\Debug\net6.0\ref\Abstract_Factory.dll
